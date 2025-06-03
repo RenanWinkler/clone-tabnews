@@ -1,2 +1,3 @@
 # clone-tabnews
-projeto para aprender a criar um projeto 
+
+projeto para aprender a criar um projeto
